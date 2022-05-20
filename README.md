@@ -64,7 +64,7 @@ Below is an example of the resulting outputs of a cell being run in the jupyter 
 
 ## Contributors
 
-Robby Odum, Chance Griffin, Asia Perry, James 
+Robby Odum, Chance Griffin, Asia Perry, James Milan 
 
 Emails: rodum012@gmail.com, griffc5@unlv.edu, asia.perry02@gmail.com, Cryptoklektik@gmail.com
 
